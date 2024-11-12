@@ -1,4 +1,6 @@
-# Bienvenue sur Azru N Guraya! 🚀
+# Azul Fellawen, Azru N Guraya! 🚀
+
+Tagnit-ik akken ad tfehmeḍ ad tebduḍ deg umaḍal n usnerni. Nesɛa lḥir ɣef usnulfu d ulmad, yerna nettaf-ak-d aṭas n tɣawsiwin d yisenfaren yemgaraden akken ad k-nɛiwen ad tebduḍ tikli-inek n usnerni.
 
 Bienvenue dans notre groupe dédié à la culture kabyle ! Ici, nous partageons des ressources numériques, des sites web, des programmes informatiques et des applications open source qui mettent en valeur notre riche patrimoine. Rejoignez-nous pour découvrir, apprendre et contribuer à la préservation et à la promotion de notre culture à travers la technologie.
 
