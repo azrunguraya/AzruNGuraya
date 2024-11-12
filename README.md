@@ -1,7 +1,6 @@
-# Bienvenue sur Ait Talla Corporation! 🚀
+# Bienvenue sur Azru N Guraya! 🚀
 
-Votre destination pour explorer et débuter dans le monde du développement. 
-Nous sommes passionnés par l'**innovation** et l'**apprentissage**, et nous mettons à votre disposition une collection diversifiée d'actifs et de projets pour vous aider à démarrer votre parcours dans le développement. 🌟
+Bienvenue dans notre groupe dédié à la culture kabyle ! Ici, nous partageons des ressources numériques, des sites web, des programmes informatiques et des applications open source qui mettent en valeur notre riche patrimoine. Rejoignez-nous pour découvrir, apprendre et contribuer à la préservation et à la promotion de notre culture à travers la technologie.
 
 Que vous soyez un **débutant enthousiaste** ou un **professionnel chevronné** à la recherche de nouveaux défis, 
 notre plateforme offre des ressources variées, 
